@@ -1,6 +1,3 @@
-### Hi there 👋
-
-preview
 <h1 align="center">Hi 👋, I'm Alan Murphy</h1>
 <h3 align="center">A Technical writer and 🤓</h3>
 
