@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alan Murphy</h1>
-<h3 align="center">A Technical writer and 🤓</h3>
+<h3 align="center">Technical writer and 🤓</h3>
 
 - 🔭 I’m currently working on [Docusaurus Framework](https://github.com/Alan4247748/friendly-potato)
 
