@@ -1,9 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Alan Murphy</h1>
 <h3 align="center">A Technical writer and 🤓</h3>
 
 - 🔭 I’m currently working on [Docusaurus Framework](https://github.com/Alan4247748/friendly-potato)
 
-- 🌱 I’m currently learning **React, NodeJS, React-motion, React-spring **
+- 🌱 I’m currently learning **React, NodeJS, React-animation libraries**
 
 - 👯 I’m looking to collaborate on **Documentation for micro services**
 
