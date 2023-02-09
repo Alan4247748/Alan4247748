@@ -21,9 +21,9 @@
 - ⚡ Fun fact:
 
 ```
-Several abstractions must be used for code to be readable. 
-However, when designing code, you must understand precisely what you're doing
-leaving no room for abstraction in the explanation.
+Several abstractions must be used for code to be readable, 
+however, when designing code, you must leave
+no room for abstraction in the explanation.
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
