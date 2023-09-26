@@ -7,7 +7,6 @@
 
 - 🔭 Currently building <a href="https://dasfilter.co">Das Filters</a> company.
 - 💰 Open to Freelancing <a href="https://damurphy.co">Onion Shorts OÜ</a>.
-- 🌱 I’m currently learning <strong>GraphQL,Sveltekit, Common Lisp, and Ulisp</strong>.
 - 📫 How to reach me <strong>onionshorts@gmail.com</strong>.
 
 <blockquote>
