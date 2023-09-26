@@ -6,15 +6,12 @@
 <h3 align="center">Technical writer and 🤓</h3>
 
 - 🔭 I’m currently working on a <a href="https://github.com/Alan4247748/friendly-potato">Docusaurus Framework</a> project.
-- 🌱 I’m currently learning <strong>React, NodeJS, React-animation libraries</strong>.
-- 👯 I’m looking to collaborate on <strong>Documentation for micro services</strong>.
-- 🤝 I’m looking for help with <strong>API Coalescing</strong>.
-- 💬 Ask me about <strong>Writing, documentation, and language design</strong>.
-- 📫 How to reach me <strong>Murphy@pbranding.de</strong>.
+- 🌱 I’m currently learning <strong>GraphQL,Sveltekit, Common Lisp, and Ulisp</strong>.
+- 📫 How to reach me <strong>onionshorts@gmail.com</strong>.
 
 <blockquote>
     <p>In programming, it's important to use abstractions otherwise code is unreadable. 
-    But when designing code understand exactly what you're doing. 
+    But when designing code you mustunderstand exactly what you're doing. 
     Leaving no room for abstraction in your explanation.</p>
 </blockquote>
 
