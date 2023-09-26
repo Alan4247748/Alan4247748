@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Alan Murphy</h1>
 <h3 align="center">Technical writer and 🤓</h3>
 
-- 🔭 I’m currently working on a <a href="https://github.com/Alan4247748/friendly-potato">Docusaurus Framework</a> project.
+- 🔭 Currently building <a href="https://dasfilter.co">Activated Carbon Filters</a> company.
+- 💰 Open to Freelancing <a href="https://damurphy.co">Onion Shorts OÜ</a>.
 - 🌱 I’m currently learning <strong>GraphQL,Sveltekit, Common Lisp, and Ulisp</strong>.
 - 📫 How to reach me <strong>onionshorts@gmail.com</strong>.
 
