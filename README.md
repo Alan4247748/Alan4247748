@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/52749223/217674694-066879fe-01fb-40c9-9525-bbc0b713b19f.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Alan Murphy</h1>
+<h1 align="center">Hi 👋, I'm Murph</h1>
 <h3 align="center">Technical writer and 🤓</h3>
 
 - 🔭 Currently building <a href="https://dasfilter.co">Das Filters</a> company.
