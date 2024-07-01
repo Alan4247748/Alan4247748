@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Murph</h1>
 <h3 align="center">Technical writer and 🤓</h3>
 
-- 🔭 Currently building <a href="https://dasfilter.co">Das Filters</a> company.
-- 💰 Open to Freelancing <a href="https://damurphy.co">Onion Shorts OÜ</a>.
+- 🔭 Currently building <a href="https://dasfilter.shop">Das Filters</a> company.
+- 💰 Open to Freelancing <a href="https://damurphy.com">Onion Shorts OÜ</a>.
 - 📫 How to reach me <strong>onionshorts@gmail.com</strong>.
 
 <blockquote>
